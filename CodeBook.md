@@ -30,4 +30,4 @@ Available activities are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING,
 At last the tidy data set is created with the average of each variable for each activity and each subject. 
 
 First column of tidy dataset is header.
-Since there are 30 different subjects and 6 different activities for each of them, the dimensionality of dataset is 180 rows 68 columns.
+Since there are 30 different subjects and 6 different activities for each of them, the dimensionality of dataset is 180 rows and 68 columns.
